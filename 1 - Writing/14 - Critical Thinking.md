@@ -5,7 +5,7 @@
 > Develop clear thinking through a simple and easy to follow checklist
 
 > [14.2] The Ultimate Cheatsheet for Critical Thinking
-> Submitted by: Xearon#5448 
+> Submitted by: Xearon
 > <https://i.imgur.com/1ahD4cD.jpg>
 > 
 > Critical Thinking cheat sheet.
