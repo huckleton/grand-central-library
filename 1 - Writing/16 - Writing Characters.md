@@ -1,5 +1,5 @@
 > [16.1] Writing With Color
-> Submitted by: Ryciera#0066
+> Submitted by: Ryciera
 > <https://tinyurl.com/y5ex787x>
 > 
 > How to write passages about your characters by using better language for skintones (and avoiding fruit colors!)

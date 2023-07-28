@@ -20,19 +20,19 @@
 > Submitted by: Reiko
 > <https://twitter.com/melisscaru/status/1213513852840808449?s=20>
 > 
-> Description: Describes reasonable combat scenarios and techniques.
+> Describes reasonable combat scenarios and techniques.
 
 > [17-6] Military Science Fiction
 > Submitted by: Grine_
 > <http://www.milsf.com/>
 > 
-> Description: A soldier’s perspective on how to write military science fiction
+> A soldier’s perspective on how to write military science fiction
 
 > [P] Writing Accurate Blood Loss
 > Submitted by: Ryciera
 > <https://tinyurl.com/y63zr973>
 > 
-> Description: How to accurately write bloodloss and bodily consequence.
+> How to accurately write bloodloss and bodily consequence.
 
 > [P] Writing Epic Battle 
 > Submitted by: discochan 
