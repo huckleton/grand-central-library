@@ -8,7 +8,7 @@
 > Submitted by: Xearon#5448 
 > <https://i.imgur.com/1ahD4cD.jpg>
 > 
-> Description: Critical Thinking cheat sheet.
+> Critical Thinking cheat sheet.
 
 > [14.3] 50 Cognitive Biases (image)
 > Submitted by: Xearon
