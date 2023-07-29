@@ -1,7 +1,6 @@
 > Worldbuilding Magazine
 > Created by:  <https://www.worldbuildingmagazine.com/> and the fine fellows over at the WBM Discord (Link on their site!)
 >  
->  
 > Worldbuilding Magazine is a digital publication of worldbuilding content for the community, written by the community. Indexed issues in this channel will be updated periodically as mobile PDF friendly releases, but you can find the full publication on their website above.
 > Issues (By issue date):
 >  
