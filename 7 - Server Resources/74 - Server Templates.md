@@ -1,4 +1,4 @@
-> [71-1] Roleplay Server Template
+> Roleplay Server Template
 > Authored by: Xearon
 > <https://discord.new/EDcKAkWpYTTp>
 > 
