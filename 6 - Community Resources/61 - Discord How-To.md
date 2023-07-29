@@ -1,30 +1,30 @@
 > How to Format Text in Discord
-> <https://tinyurl.com/yy6c9us3>
 > Submitted by: Xearon 
+> <https://tinyurl.com/yy6c9us3>
 >  
 > How to format text in code blocks for discord, including color combinations and language syntax
 
 > Coolors
-> <https://coolors.co/>
 > Submitted by: Williaso
+> <https://coolors.co/>
 >  
 > Creates complimentary color palettes. Useful for discord formatting.
 
 > How to turn on developer mode
-> <https://discordia.me/en/developer-mode>
 > Submitted by: Xearon
+> <https://discordia.me/en/developer-mode>
 >  
 > How to toggle developer mode on discord. Developer mode allows you to view the unique ID of users, channels, and messages.
 
 > How to log a DMCA / ToS / Trust and Safety Ticket with Discord
-> <https://support.discordapp.com/hc/en-us/requests/new?ticket_form_id=360000029731>
 > Submitted by: Reiko 
+> <https://support.discordapp.com/hc/en-us/requests/new?ticket_form_id=360000029731>
 >  
 > Official link for reporting violations to discord. Use developer mode to copy the ID of related information when submitting.
 
 > Hide Blocked User Messages in Discord
-> <https://github.com/Multarix/Discord-Hide-Blocked-Messages>
 > Submitted by: Kyori
+> <https://github.com/Multarix/Discord-Hide-Blocked-Messages>
 >  
 > Repository code that you can paste into your PC discord client (sorry mobile) to hide the "1 blocked message - show message" messages from discord. Works up to current stable release (5.85.05) as of the time of this posting. 
 
