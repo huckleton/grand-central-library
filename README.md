@@ -9,3 +9,5 @@ this repository is a public archive of the Grand Central Library Discord server,
 the resource can be found at its [Disboard](https://disboard.org/server/553282299618394154) link.
 
 keep in mind that this repository is not for submitting or requesting resources; that must be done on the Discord server itself.
+
+NOTE: this resource is intended for external markdown editors (like Obsidian), as GitHub's markdown editor tends to collapse line breaks. this may change at a later date (i.e. making everything double line breaks in the future)
